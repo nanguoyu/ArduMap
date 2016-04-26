@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="关于">
+
+        <Preference
+            android:summary="该程序forked from新浪微博@andforce的开源项目https://github.com/andforce/Maps"
+            android:title="说明" />
+
+        <Preference
+            android:summary="@string/setting_pref_developer_summary"
+            android:title="开发者"/>
+
+        <Preference
+            android:summary="https://github.com/nanguoyu/Maps"
+            android:title="开源地址" />
+
+        <Preference
+            android:key="setting_pref_version"
+            android:title="版本" />
+
+
+        <Preference
+            android:summary="@string/setting_pref_icon_designer"
+            android:title="部分图标设计者"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

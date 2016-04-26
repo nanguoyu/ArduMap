@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@+id/map_container"
+             xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:background="@color/drawer_text_color_blue"
+             android:orientation="vertical">
+
+    <com.amap.api.navi.AMapNaviView
+        android:id="@+id/customnavimap"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"/>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_link"
+        android:textColor="@android:color/black"
+        android:background="@drawable/new_card"
+        android:layout_marginStart="5dp"
+        android:text="@string/connect_navi"
+        android:layout_gravity="start|center_vertical" />
+
+    <com.nanguoyu.navirosefinch.widget.StatusBarView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#4C000000"/>
+</FrameLayout>
