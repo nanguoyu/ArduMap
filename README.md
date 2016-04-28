@@ -28,6 +28,5 @@ https://github.com/andforce/Maps
 ![截图](https://github.com/nanguoyu/ArduMap/blob/master/screenshot/6.png)
 ![截图](https://github.com/nanguoyu/ArduMap/blob/master/screenshot/7.png)
 ![截图](https://github.com/nanguoyu/ArduMap/blob/master/screenshot/8.png)
-![截图](https://github.com/nanguoyu/ArduMap/blob/master/screenshot/9.png)
 ![截图](https://github.com/nanguoyu/ArduMap/blob/master/screenshot/10.png)
 ![截图](https://github.com/nanguoyu/ArduMap/blob/master/screenshot/11.png)
