@@ -7,6 +7,8 @@
 项目软件是主要实现基本地图软件功能，以及与硬件的蓝牙连接、数据通信。
 用户使用时，会看到应前往方向的指示灯闪烁、震动器震动、语音播报转向提示。
 
+[![Watch the video](http://ww1.sinaimg.cn/mw690/8268f477ly1fxvqdzm6t3j20uq0gzwxm.jpg)](https://www.youtube.com/watch?v=1X0eO76t7Tc)
+
 ### 它能做什么?
 地图查看、路径规划、体感导航（通过蓝牙与基于arduino的交互硬件设备连接）
 
